@@ -1,4 +1,8 @@
-References file
-Reference 1
-Reference 2
-Reference 3
+
+# References
+
+* octocat 1 😈# References
+
+* octocat 1 😈
+
+* Reference 2 not octocat
